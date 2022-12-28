@@ -3,8 +3,8 @@
 ## Languages and Detail
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad-kasiri&theme=tokyonight&show_icons=true/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-kasiri&theme=tokyonight&show_icons=true/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad-kasiri&theme=tokyonight&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-kasiri&theme=tokyonight&show_icons=true"/>
 </p>
     
 ## I'm ready for remote projects    
