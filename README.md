@@ -15,6 +15,6 @@
 
 
 
-- 🔭 I’m currently working on Classino.
+- 🔭 I’m currently working at Classino.
 - 💻 I’m master student of software engineering
 - 💬 I enjoy study and learn new things.
